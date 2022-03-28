@@ -16,7 +16,6 @@ jobs:
     name: Deploy Snow Flake
     runs-on: ubuntu-latest
     steps:
-      #Checks out your repository under $GITHUBWORKSPACE, so your job can access it
       - name: Checkout Repository
 	uses: actions/checkout@v2
 		
