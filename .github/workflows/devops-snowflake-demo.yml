@@ -1,6 +1,6 @@
 name: snowflake-devops-demo
 
-#Controlls when the the action will run
+#Controlls when the the action will trigger
 on:
   push:
     branches:
