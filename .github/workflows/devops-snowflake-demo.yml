@@ -3,7 +3,7 @@ name: snowflake-devops-demo
 #Controlls when the the action will trigger
 on:
   schedule:
-    - cron: '30 16 * * *'
+    - cron: '5 * * * *'
   #push:
     #branches:
       #- main
@@ -11,7 +11,7 @@ on:
       #- 'dbscripts/**'
    
   # Allows you to run this workfow manually from Actions tab
-  #workflow_dispatch:
+  workflow_dispatch:
   
 jobs:
   deploy-snowflake-changes-job:
