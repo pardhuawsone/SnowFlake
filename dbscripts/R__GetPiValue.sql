@@ -1,2 +1,2 @@
 use schema sampledb.demo;
-call sp1();
+call sp2();
