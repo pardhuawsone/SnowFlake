@@ -2,8 +2,8 @@ name: snowflake-devops-demo
 
 #Controlls when the the action will trigger
 on:
-  schedule:
-    - cron: '30 11 * * *'
+  #schedule:
+  #  - cron: '30 11 * * *'
   #push:
     #branches:
       #- main
