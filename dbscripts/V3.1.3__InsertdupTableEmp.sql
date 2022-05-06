@@ -1,3 +1,0 @@
-USE SCHEMA SAMPLEDB.DEMO;
-INSERT INTO EMP (col1, col2, col3)
-VALUES ('nag', 'IT', 32);
