@@ -1,0 +1,2 @@
+USE SCHEMA SAMPLEDB.DEMO;
+rollback
