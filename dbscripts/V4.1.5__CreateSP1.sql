@@ -1,5 +1,5 @@
 use schema sampledb.demo;
-create or replace procedure mysp1()
+create or replace procedure mysp3()
     returns float not null
     language javascript
     as
