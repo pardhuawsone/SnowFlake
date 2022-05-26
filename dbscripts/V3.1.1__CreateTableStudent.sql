@@ -1,5 +1,0 @@
-CREATE TABLE SAMPLEDB.DEMO.student
-(
-NAME VARCHAR
-,age number
-);
