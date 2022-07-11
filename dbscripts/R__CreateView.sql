@@ -1,2 +1,2 @@
 use schema sampledb.demo;
-create view EVIEW as select * from EMPLOYEE where DEPT='FINANCE';
+create view ITVIEW as select * from EMPLOYEE where DEPT='IT';
